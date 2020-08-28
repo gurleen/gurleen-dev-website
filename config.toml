@@ -1,0 +1,48 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Gurleen Singh"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#6ecd9f"
+    description = "Portfolio of Gurleen Singh, CS Student"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "gurleen.singh@drexel.edu"
+    # facebook = "lex.collado"
+    twitter = "gurleen_s_"
+    # dribbble = "alexiscollado"
+    linkedin = "https://www.linkedin.com/in/gsingh2000/"
+    # medium = "ahvccollado"
+    github = "gurleens2000"
+    # googlescholar = "https://scholar.google.com/citations?user=XXXXXXXXXXXXXXXXXXXXX=en"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "avatar.jpeg"
+    subtitle = "Hi! I'm Gurleen, a CS student from Philadelphia."
+    hero_right = ["**Currently searching for software engineering internships/co-ops for the Spring and Summer of 2021!**", 
+                 "I currently work as a software engineering intern for [Linode](https://linode.com/), the world's largest independent cloud provider. There, I'm working on [Linode APIv4](https://www.linode.com/products/api/), providing a world-class experience for customers and developers.", 
+                 "I also co-founded [WeWager](https://wewager.io/), a social sports betting platform. I serve as Chief Technology Officer and oversee the development of our API and mobile app. We're also in the [Baiada Institute for Entrepreneurship]() at Drexel University.", 
+                 "I'm finishing my Bachelor's degree in Computer Science at Drexel University's College of Computing and Informatics, expecting to graduate in 2023. I have a minor in Entrepreneurship and Innovation.",
+                 "I'm also big fan of Philly sports. Go Birds! 🦅"
+                 ]
+    resume = "Gurleen Singh Resume.pdf"
+
+[params.process]
+    enable = false
+    title = "My Process"
+    subtitle = "Full Process Design"
+
+[params.case_studies]
+    enable = false
+    title = "Case Studies"
+    subtitle = "Selected Works"
+
+[params.footer]
+    enable = false

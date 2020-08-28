@@ -1,0 +1,6 @@
+[submodule "hugo-lodi-theme"]
+	path = hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme.git
+[submodule "themes/lodi"]
+	path = themes/lodi
+	url = https://github.com/xaviablaza/hugo-lodi-theme.git
