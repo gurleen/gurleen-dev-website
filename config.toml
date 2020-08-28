@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://quirky-chandrasekhar-bdb3d4.netlify.app/"
 languageCode = "en-us"
 title = "Gurleen Singh"
 theme = "hugo-lodi-theme"
