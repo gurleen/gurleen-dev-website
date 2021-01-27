@@ -12,11 +12,10 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     logo = "logo.png"
     email = "gurleen.singh@drexel.edu"
     # facebook = "lex.collado"
-    twitter = "gurleen_s_"
     # dribbble = "alexiscollado"
     linkedin = "https://www.linkedin.com/in/gsingh2000/"
     # medium = "ahvccollado"
-    github = "gurleens2000"
+    github = "gurleen"
     # googlescholar = "https://scholar.google.com/citations?user=XXXXXXXXXXXXXXXXXXXXX=en"
 
 [params.nav]
