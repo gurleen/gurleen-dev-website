@@ -26,8 +26,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     avatar = "avatar.jpeg"
     subtitle = "Hi! I'm Gurleen, a CS student from Philadelphia."
     hero_right = ["**Currently searching for software engineering internships/co-ops for the Spring and Summer of 2022!**", 
-                 "I currently work as a Software Development Co-op for [Susuqehanna International Group](https://sig.com/), a trading firm in Bala Cynwyd, PA. There, I'm supporting the Energy trading desk by building software for market data delivery.", 
-                 "I previously worked as a software engineering intern at [Linode](https://linode.com/), the world's largest independent cloud provider. I worked on Linode APIv4, providing a world-class experience for customers and developers.",
+                 "I most recently worked as a Software Development Co-op for [Susuqehanna International Group](https://sig.com/), a trading firm in Bala Cynwyd, PA. There, I supported the Energy trading desk by building software for market data delivery.", 
+                 "Before that, I was a software engineering intern at [Linode](https://linode.com/), the world's largest independent cloud provider. I worked on Linode APIv4, providing a world-class experience for customers and developers.",
                  "I'm finishing my Bachelor's degree in Computer Science at Drexel University's College of Computing and Informatics, expecting to graduate in 2023. I have a minor in Entrepreneurship and Innovation.",
                  "I'm also big fan of Philly sports. Go Birds! 🦅"
                  ]
