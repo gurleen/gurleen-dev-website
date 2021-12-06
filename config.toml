@@ -28,7 +28,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     hero_right = ["I'm an incoming Software Engineering Intern in Baseball R&D at the [Philadelphia Phillies](https://phillies.com).", 
                  "I most recently worked as a Software Development Co-op for [Susuqehanna International Group](https://sig.com/), a trading firm in Bala Cynwyd, PA. There, I supported the Energy trading desk by building software for market data delivery.", 
                  "Before that, I was a software engineering intern at [Linode](https://linode.com/), the world's largest independent cloud provider. I worked on Linode APIv4, providing a world-class experience for customers and developers.",
-                 "I'm finishing my Bachelor's degree in Computer Science at Drexel University's College of Computing and Informatics, expecting to graduate in 2023. I have a minor in Entrepreneurship and Innovation.",
+                 "I'm finishing my Bachelor's degree in Computer Science at Drexel University's College of Computing and Informatics, expecting to graduate in 2023. I have a minor in Sports Management.",
+                 "Outside of class, I produce TV broadcasts for the [Drexel Dragons](https://drexeldragons.com/) on NBC Sports Philadelphia.",
                  "I'm also big fan of Philly sports. Go Birds! 🦅"
                  ]
     resume = "Gurleen Singh Resume.pdf"
