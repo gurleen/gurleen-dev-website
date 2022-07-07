@@ -23,7 +23,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.hero]
     enable = true
-    avatar = "avatar.jpeg"
+    avatar = "avatar.png"
     subtitle = "Hi! I'm Gurleen, a CS student from Philadelphia."
     hero_right = ["I'm an Associate SWE in Baseball R&D at the [Philadelphia Phillies](https://phillies.com).", 
                  "I most recently worked as a Software Development Co-op for [Susuqehanna International Group](https://sig.com/), a trading firm in Bala Cynwyd, PA. There, I supported the Energy trading desk by building software for market data delivery.", 
